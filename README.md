@@ -65,7 +65,7 @@ Building a third-person game on a sphere meant that many things Unreal normally 
 <table>
   <tr>
     <td width="50%"><img src="media/mother-earth-scorched.jpg" alt="Fighting enemies on scorched red tiles" width="100%"></td>
-    <td width="50%"><img src="media/mother-earth-enemies.jpg" alt="Low-poly fire gorillas and wolves" width="100%"></td>
+    <td width="50%"><img src="media/mother-earth-fireenemies.jpg" alt="Low-poly fire gorillas and wolves" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><sub><i>Pushing into scorched territory</i></sub></td>
